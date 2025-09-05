@@ -1,2 +1,3 @@
-# DNS-rule
-dns blacklist
+# DNS Scanner Blacklist
+IP
+DOMAIN
