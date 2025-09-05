@@ -1,0 +1,2 @@
+# DNS-rule
+dns blacklist
